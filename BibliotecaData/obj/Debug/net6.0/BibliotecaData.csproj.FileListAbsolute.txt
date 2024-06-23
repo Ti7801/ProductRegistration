@@ -15,3 +15,4 @@ C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\BibliotecaData\obj\D
 C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\BibliotecaData\obj\Debug\net6.0\BibliotecaData.pdb
 C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\BibliotecaData\obj\Debug\net6.0\BibliotecaData.genruntimeconfig.cache
 C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\BibliotecaData\obj\Debug\net6.0\ref\BibliotecaData.dll
+C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\BibliotecaData\obj\Debug\net6.0\BibliotecaData.sourcelink.json

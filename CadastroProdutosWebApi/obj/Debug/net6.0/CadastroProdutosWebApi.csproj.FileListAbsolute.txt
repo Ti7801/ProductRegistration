@@ -70,3 +70,4 @@ C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\CadastroProdutosWebA
 C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\CadastroProdutosWebApi\bin\Debug\net6.0\BibliotecaData.dll
 C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\CadastroProdutosWebApi\bin\Debug\net6.0\BibliotecaBusiness.pdb
 C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\CadastroProdutosWebApi\bin\Debug\net6.0\BibliotecaData.pdb
+C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\CadastroProdutosWebApi\obj\Debug\net6.0\CadastroProdutosWebApi.sourcelink.json

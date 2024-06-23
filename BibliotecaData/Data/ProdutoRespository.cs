@@ -21,12 +21,18 @@ namespace BibliotecaData.Data
 
         public List<Produto> ListarProduto()
         {
-            var list = from e in appDbContext.Produtos
-                       from i in appDbContext.Produtos
-                       orderby e.ValorProduto ascending
-                       select new { i.Nome, e.ValorProduto };
+            var result = from produto in appDbContext.Produtos
+                       orderby produto.ValorProduto ascending
+                       select new Produto 
+                       {
+                           Id = produto.Id,
+                           Nome = produto.Nome,
+                           ValorProduto = produto.ValorProduto,
+                           Descricao = produto.Descricao,
+                           DisponivelVenda = produto.DisponivelVenda,
+                       };
 
-            return (List<Produto>)list;
+            return result.ToList();
         }
 
         public void AtualizarProduto(Produto produto)
@@ -35,9 +41,9 @@ namespace BibliotecaData.Data
             appDbContext.SaveChanges();
         }
 
-        public void ExcluirProduto(int id)
+        public void ExcluirProduto(Produto produto)
         {
-            appDbContext.Produtos.Remove(new Produto { Id = id });
+            appDbContext.Produtos.Remove(produto);
             appDbContext.SaveChanges();
         }
 

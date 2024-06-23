@@ -12,3 +12,4 @@ C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\BibliotecaBusiness\o
 C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\BibliotecaBusiness\obj\Debug\net6.0\BibliotecaBusiness.pdb
 C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\BibliotecaBusiness\obj\Debug\net6.0\BibliotecaBusiness.genruntimeconfig.cache
 C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\BibliotecaBusiness\obj\Debug\net6.0\ref\BibliotecaBusiness.dll
+C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\BibliotecaBusiness\obj\Debug\net6.0\BibliotecaBusiness.sourcelink.json

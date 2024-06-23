@@ -77,7 +77,7 @@ namespace CadastroProdutosWebApi.Controllers
             }          
         }
 
-        [HttpDelete]
+        [HttpDelete("{id:int}")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         public ActionResult ExcluirProduto(int id)

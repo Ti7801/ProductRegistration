@@ -20,7 +20,8 @@ namespace BibliotecaBusiness.Services
             {
                 return new ServiceResult(false, "O produto não foi encontrado");
             }
-            produtoRepository.ExcluirProduto(id);
+
+            produtoRepository.ExcluirProduto(produtoDeletado);
 
             return new ServiceResult(true, "O produto foi excluido");
 

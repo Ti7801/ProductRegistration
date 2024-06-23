@@ -6,7 +6,7 @@ namespace BibliotecaBusiness.Abstractions
     {
         public void AtualizarProduto(Produto produto);
         public void CadastrarProduto(Produto produto);
-        public void ExcluirProduto(int id);
+        public void ExcluirProduto(Produto produto);
         public List<Produto> ListarProduto();
         public Produto? ObterPorId(int id);
     }
