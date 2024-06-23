@@ -1,0 +1,14 @@
+C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\BibliotecaBusiness\bin\Debug\net6.0\BibliotecaBusiness.deps.json
+C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\BibliotecaBusiness\bin\Debug\net6.0\BibliotecaBusiness.runtimeconfig.json
+C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\BibliotecaBusiness\bin\Debug\net6.0\BibliotecaBusiness.dll
+C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\BibliotecaBusiness\bin\Debug\net6.0\BibliotecaBusiness.pdb
+C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\BibliotecaBusiness\obj\Debug\net6.0\BibliotecaBusiness.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\BibliotecaBusiness\obj\Debug\net6.0\BibliotecaBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\BibliotecaBusiness\obj\Debug\net6.0\BibliotecaBusiness.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\BibliotecaBusiness\obj\Debug\net6.0\BibliotecaBusiness.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\BibliotecaBusiness\obj\Debug\net6.0\BibliotecaBusiness.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\BibliotecaBusiness\obj\Debug\net6.0\BibliotecaBusiness.dll
+C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\BibliotecaBusiness\obj\Debug\net6.0\refint\BibliotecaBusiness.dll
+C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\BibliotecaBusiness\obj\Debug\net6.0\BibliotecaBusiness.pdb
+C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\BibliotecaBusiness\obj\Debug\net6.0\BibliotecaBusiness.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\PROJETOS EM C#\CADASTRO DE PRODUTOS\BibliotecaBusiness\obj\Debug\net6.0\ref\BibliotecaBusiness.dll
