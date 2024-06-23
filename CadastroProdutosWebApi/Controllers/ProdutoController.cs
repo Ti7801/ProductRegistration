@@ -16,7 +16,10 @@ namespace CadastroProdutosWebApi.Controllers
         private readonly ListarProdutoServices listarProdutoServices;
         private readonly ExcluirProdutoServices excluirProdutoServices;
 
-        public ProdutoController(CadastrarProdutoServices cadastrarProdutoServices, AtualizarProdutoServices atualizarProdutoServices, ListarProdutoServices listarProdutoServices, ExcluirProdutoServices excluirProdutoServices)
+        public ProdutoController(CadastrarProdutoServices cadastrarProdutoServices,
+            AtualizarProdutoServices atualizarProdutoServices,
+            ListarProdutoServices listarProdutoServices,
+            ExcluirProdutoServices excluirProdutoServices)
         {
             this.cadastrarProdutoServices = cadastrarProdutoServices;
             this.atualizarProdutoServices = atualizarProdutoServices;
