@@ -1,9 +1,6 @@
 ﻿using BibliotecaBusiness.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using BibliotecaBusiness.Services;
-
-
 
 namespace CadastroProdutosWebApi.Controllers
 {

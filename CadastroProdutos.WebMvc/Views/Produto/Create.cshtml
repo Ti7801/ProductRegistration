@@ -1,0 +1,43 @@
+﻿@model BibliotecaBusiness.Models.Produto
+
+@{
+    ViewData["Title"] = "Cadastrar Produto";
+}
+
+<h2>Cadastrar Produto</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="Nome" class="control-label"></label>
+        <input asp-for="Nome" class="form-control" />
+        <span asp-validation-for="Nome" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Descricao" class="control-label"></label>
+        <input asp-for="Descricao" class="form-control" />
+        <span asp-validation-for="Descricao" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ValorProduto" class="control-label"></label>
+        <input asp-for="ValorProduto" class="form-control" />
+        <span asp-validation-for="ValorProduto" class="text-danger"></span>
+    </div>
+    <div class="form-group form-check">
+        <input asp-for="DisponivelVenda" class="form-check-input" />
+        <label asp-for="DisponivelVenda" class="form-check-label"></label>
+        <span asp-validation-for="DisponivelVenda" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Salvar" class="btn btn-primary" />
+    </div>
+</form>
+
+<div style="margin-top: 15px">
+    <a asp-action="Index" class="btn btn-secondary">Voltar para a listagem</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
